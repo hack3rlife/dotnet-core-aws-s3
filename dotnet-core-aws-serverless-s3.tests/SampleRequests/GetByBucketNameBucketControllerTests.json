@@ -1,0 +1,8 @@
+{
+  "resource": "/{proxy+}",
+  "path": "/api/Bucket/Files",
+  "httpMethod": "GET",
+  "queryStringParameters": {
+    "bucketName": "aws-s3-webapi"
+  }
+}

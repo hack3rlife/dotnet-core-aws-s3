@@ -1,0 +1,6 @@
+{
+  "resource": "/{proxy+}",
+  "path": "/api/Bucket",
+  "httpMethod": "GET",
+  "headers": null
+}

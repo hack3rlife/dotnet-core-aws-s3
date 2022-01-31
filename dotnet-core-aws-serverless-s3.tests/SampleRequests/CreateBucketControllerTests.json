@@ -1,0 +1,7 @@
+{
+  "resource": "/{proxy+}",
+  "path": "/api/Bucket",
+  "httpMethod": "POST",
+  "body": "ewogICAgImJ1Y2tldE5hbWUiOiAidGVzdC1idWNrZXQtczMiLAogICAgInJlZ2lvbiI6ICJ1cy1lYXN0LTIiCiAgfQ==",
+  "isBase64Encoded": true
+}
